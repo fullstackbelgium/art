@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/fullstackbelgium/art/blob/main/Belgium/full-stack-belgium.svg" width="350" />
+    <img src="https://github.com/fullstackbelgium/art/blob/main/Belgium/full-stack-belgium.svg" width="300" />
 </p>
 
 # Full Stack Belgium Art
